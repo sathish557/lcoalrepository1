@@ -1,1 +1,1 @@
-this is a simple file
+we made changes to text1.txt using VI
