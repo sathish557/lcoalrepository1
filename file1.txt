@@ -1,1 +1,1 @@
-we made changes to text1.txt using VI
+this file has been updated on remote repository of github
